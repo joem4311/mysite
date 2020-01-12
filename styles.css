@@ -1,0 +1,160 @@
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-family: cursive;
+  font-size: 25px;
+  line-height: 2;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 600px;
+  
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: "Lobster", cursive;
+  color: #66bfbf;
+}
+
+h2 {
+  font-size: 2.5rem;
+  
+}
+
+h3 {
+  color: #11999e;
+}
+
+a {
+  color: #11999e;
+  font-family: 'Times New Roman', Times, serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+p {
+  color:#4169e1 ;
+  font-family: cursive;
+}
+
+a:hover {
+  color: #eaf6f6;
+}
+
+
+#contact-me {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.copyright {
+  color: #eaf6f6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+#top-container {
+  background-color: rgb(160, 238, 224);
+  position: relative;
+  padding-top: 100px;
+}
+
+
+#middle-container {
+  margin: 100px 0;
+  
+}
+
+.bottom-container {
+  background-color:	#1aecff;
+  padding: 50px 0 20px;
+}
+
+.self-par p {
+  
+  width: 50%;
+  max-width: 50px;
+  margin: 50px 0 50px 0;
+  margin-left: 350px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.skill-pic {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.basketball-pic {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+
+
+.dev {
+  font-family: "Lobster", cursive;
+  font-weight: bolder;
+  color: #66bfbf;
+ 
+}
+
+
+.bottom-pic {
+  height: auto;
+  max-width: 200px;
+  position: absolute;
+  right: 70%;
+  bottom: 300px;
+  top: 50%;
+}
+
+.me-pic {
+  height: 400px;
+  width: 300px;
+}
+
+.top-pic {
+  max-width: 200px;
+  height: auto;
+  position: absolute;
+  left: 78%;
+  
+
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
